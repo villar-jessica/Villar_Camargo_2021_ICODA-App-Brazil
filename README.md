@@ -1,0 +1,2 @@
+# Villar_Camargo_2021_ICODA-App-Brazil
+Shiny App files from the EFFECT-Brazil project, which was funded by the Bill & Melinda Gates Foundation, the Minderoo Foundation and Microsoft's AI for Health program. The project was one of 10 selected from more than 400 proposals for the ICODA COVID-19 Data Science Grand Challenges in 2021 (https://icoda-research.org/project/dp-effect-brazil/). More details and results at https://sites.google.com/view/effect-brazil/home?authuser=0.
